@@ -98,6 +98,8 @@ def main():
     print(network, end='')
     #check for
     #github
+    #more check
+
 
 if __name__ == '__main__':
     main()
